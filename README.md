@@ -1,1 +1,1 @@
-A repository for starting development in BEM, SCSS, and JS code.
+Removes extra characters and saves only numbers to the clipboard.
